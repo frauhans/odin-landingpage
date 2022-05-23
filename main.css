@@ -1,3 +1,15 @@
-section {
-    color: #010a8a;
-}
+        #title-webinar {
+            color: #000DFF;
+            font-family: 'Montserrat', sans-serif;
+            ;
+        }
+        
+        #about-webinar {
+            color: black;
+            font-family: 'Lato', sans-serif
+        }
+        
+        #about-speaker {
+            color: black;
+            font-family: 'Lato', sans-serif
+        }
